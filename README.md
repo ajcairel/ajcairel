@@ -24,7 +24,7 @@ Software Engineer
 * 🌍  I'm based in the East Bay Area
 * 🖥️  See my portfolio [here](https://alexanderjcairel.netlify.app/)
 * ✉️  You can contact me at [alexanderjcairel@gmail.com](mailto:alexanderjcairel@gmail.com)
-* 🚀  I'm currently working on the Sweet Trades website. 
+* 🚀  I'm currently working at Accenture but open to opportunities. 
 
 
 ### Skills
